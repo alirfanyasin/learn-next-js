@@ -1,9 +1,7 @@
 import React from 'react'
 
-const BlogEducation = () => {
+export default function BlogEducationPage() {
   return (
-    <div>Education Blog Page</div>
+    <div>Blog Education Page</div>
   )
 }
-
-export default BlogEducation
