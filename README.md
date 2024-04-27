@@ -20,17 +20,60 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Lesson
+1. Hello World
+2. Project Structur
+3. Routing
+4. Nested Routes
+5. Dynamic Routes
+6. Nested Dynamic Routes
+7. Catch All Segements
+8. Not Found Page
+9. File Colocation
+10. Private Folders
+11. Route Groups
+12. Layouts
+13. Nested Layouts
+14. Route Group Layout
+15. Routing Metadata
+16. Title Metadata
+17. Link Component Navigation
+18. Active Link
+19. Navigatingi Programmatically
+20. Templates
+21. Loading UI
+22. Error Handling
+23. Handling Errors in Nested Routes
+24. Handling Error in Layout
+25. Parallel Routes
+26. Unmatched Routes
+27. Conditional Routes
+28. Intercepting Routes
+29. Parallel Intercepting Routes
+30. Routes Handlers
+31. Handling GET Request
+32. Handling POST Request
+33. Dynamic Route Handlers
+34. Handling PATCH Request
+35. URL Query Parameters
+36. Redirect in Route Handlers
+37. Cookies in Route Handlers
+38. Caching in Route Handlers
+39. Middleware
+40. Rendering
+41. Client-side Rendereing (CSR)
+42. Server-side Redering (SSR)
+43. Suspense for SSR
+44. React Server Components (RSC)
+45. Server and Client Components
+46. RSC Rendering Lifecycle
+47. Static Rendering
+48. Dynamic Rendering
+49. Streaming
+50. Server and Client Composition Patterns
+51. Serve-only Code
+52. Third Party Packages
+53. Context Providers
+54. Client Only Code
+55. Client Component Placement
+56. Interleaving Server and Client Components
