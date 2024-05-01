@@ -1,7 +1,16 @@
-import React from 'react'
+// Dynamic Metadata
+import { Metadata } from "next";
 
-export default function ProductDetail({params} : {params : {productId : string}}) {
-  return (
-    <div>Product Detail {params.productId}</div>
-  )
+type Props = {
+  params: { productId: string };
+};
+
+export const generateMetadata = ({ params }: Props): Metadata => {
+  return {
+    title: `Product ${params.productId}`,
+  };
+};
+
+export default function ProductDetail({ params }: Props) {
+  return <div>Product Detail {params.productId}</div>;
 }
