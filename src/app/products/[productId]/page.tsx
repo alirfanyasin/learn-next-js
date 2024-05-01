@@ -12,5 +12,5 @@ export const generateMetadata = ({ params }: Props): Metadata => {
 };
 
 export default function ProductDetail({ params }: Props) {
-  return <div>Product Detail {params.productId}</div>;
+  return <h1>Product Detail {params.productId}</h1>;
 }
