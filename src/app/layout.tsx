@@ -22,7 +22,7 @@ export default function RootLayout({
           <p>Header</p>
         </header>
 
-        <div style={{ height: "100px" }}>{children}</div>
+        <div>{children}</div>
 
         <footer style={{ backgroundColor: "skyblue", padding: "1rem" }}>
           <p>Footer</p>

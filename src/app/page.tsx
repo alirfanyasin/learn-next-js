@@ -1,7 +1,11 @@
-import React from 'react'
+import Link from "next/link";
 
 export default function Home() {
   return (
-    <div>Home Page</div>
-  )
+    <div>
+      <h2>Welcome Home</h2>
+      <Link href="/about">About</Link>
+      <Link href="/products">Products</Link>
+    </div>
+  );
 }
